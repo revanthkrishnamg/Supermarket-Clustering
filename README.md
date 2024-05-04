@@ -1,9 +1,6 @@
 # Basket Customer Segmentation
 
 ## Overview
-This project applies customer segmentation techniques to a retail dataset to identify distinct groups of customers based on their purchasing patterns. Using clustering algorithms, the project aims to enhance targeted marketing strategies and improve customer engagement.
-
-## Project Structure
 - **Data Collection:** Data is gathered from a retail database detailing customer purchases.
 - **Data Cleaning and Preprocessing:** The data is cleaned and prepared for analysis, handling missing values and feature engineering.
 - **Exploratory Data Analysis (EDA):** Conducting analysis to understand the data's characteristics and distribution.
